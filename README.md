@@ -33,7 +33,7 @@ Practice Git & GitHub for real-world version control
 Deploy a working portfolio site online
 
 🚀 Deployment
-Live Site:[ Click here to view my portfolio](https://scxbrian.github.io/Brian-s-Portfolio/)
+Live Site:[ Click here to view my portfolio]([https://scxbrian.github.io/Brian-s-Portfolio/)](https://github.com/scxbrian/Brian-s-Portfolio/blob/main/main.html)
 
 
 🛠️ Tech Stack

@@ -322,7 +322,7 @@ h2::after {
 }
 
 .easter-img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   border-radius: 8px;
   margin-bottom: 1rem;
@@ -347,8 +347,8 @@ h2::after {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 25%;
+  height: 25%;
   border: none;
 }
 

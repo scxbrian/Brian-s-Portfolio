@@ -29,7 +29,7 @@ This site showcases my background, interests, and journey toward becoming a soft
 ---
 
 ## 🚀 Deployment
-**Live Site:** [Click here to view my portfolio]([https://scxbrian.github.io/Brian-s-Portfolio/])
+**Live Site:** [[https://scxbrian.github.io/Brian-s-Portfolio/]]
 
 ---
 
